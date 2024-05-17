@@ -156,4 +156,4 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 ### Result :
 Thus the extraction ROI from  an image, performing handwritting detection in an image and performing object detection with label in an image.
- are executed Successfully>
+ are executed Successfully.
